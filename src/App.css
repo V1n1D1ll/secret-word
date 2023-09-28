@@ -1,0 +1,11 @@
+.App{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+h1{
+  margin: 45px auto;
+  /* color: #253A44; */
+}
